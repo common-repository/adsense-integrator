@@ -1,0 +1,637 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adsense Integrator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-03 11:05+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: advertalis <info@advertalis.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: adsense-integrator.php:247
+#: adsense-integrator_NEW VERSION.php:247
+msgid "AdSense Integrator"
+msgstr "AdSense Integrator"
+
+#: adsense-integrator.php:291
+#: adsense-integrator.php:403
+#: adsense-integrator_NEW VERSION.php:291
+#: VERSION.php:403
+msgid "AdSense Integrator Option"
+msgstr "Налады AdSense Integrator"
+
+#: adsense-integrator.php:296
+#: adsense-integrator_NEW VERSION.php:296
+msgid "Check to disable ads on this post."
+msgstr "Праверце, каб адключыць рэкламу гэтага паста."
+
+#: adsense-integrator.php:408
+#: adsense-integrator_NEW VERSION.php:408
+msgid "Check to disable ads on this page."
+msgstr "Праверце, каб адключыць рэкламу гэтай старонкі."
+
+#: adsense-integrator.php:429
+#: adsense-integrator_NEW VERSION.php:429
+msgid "Setup"
+msgstr "Налады"
+
+#: adsense-integrator.php:482
+#: adsense-integrator.php:2415
+#: adsense-integrator_NEW VERSION.php:482
+#: VERSION.php:2415
+msgid "You have to specify ads name"
+msgstr ""
+
+#: adsense-integrator.php:488
+#: adsense-integrator.php:2384
+#: adsense-integrator_NEW VERSION.php:488
+#: VERSION.php:2384
+msgid "You cannot use white spaces in ads name"
+msgstr ""
+
+#: adsense-integrator.php:502
+#: adsense-integrator_NEW VERSION.php:502
+msgid "GLOBAL OPTIONS"
+msgstr "Глабальныя налады"
+
+#: adsense-integrator.php:510
+#: adsense-integrator_NEW VERSION.php:510
+#, fuzzy
+msgid "Disable all ads for everybody"
+msgstr "Адключыць усю рэкламу"
+
+#: adsense-integrator.php:514
+#: adsense-integrator_NEW VERSION.php:514
+#, fuzzy
+msgid "Disable all ads for administrators"
+msgstr "Адключыць усю рэкламу"
+
+#: adsense-integrator.php:518
+#: adsense-integrator_NEW VERSION.php:518
+msgid "Enable all ads for administrators only"
+msgstr ""
+
+#: adsense-integrator.php:522
+#: adsense-integrator_NEW VERSION.php:522
+msgid "Save options!"
+msgstr "Захаваць налады!"
+
+#: adsense-integrator.php:532
+#: adsense-integrator_NEW VERSION.php:532
+msgid "IMPORTANT ANNOUNCEMENT"
+msgstr ""
+
+#: adsense-integrator.php:533
+#: adsense-integrator_NEW VERSION.php:533
+#, php-format
+msgid "This is one of the <b>last updates</b> of the \"old\" Adsense Integrator, 100% compatible and tested with WordPress 3.x"
+msgstr ""
+
+#: adsense-integrator.php:534
+#: adsense-integrator_NEW VERSION.php:534
+msgid "In the next weeks we will publish a <b>new plugin</b> called <b>Adsense Integrator Widgetized</b>, fully integrated with the new WP widgets system."
+msgstr ""
+
+#: adsense-integrator.php:535
+#: adsense-integrator_NEW VERSION.php:535
+msgid "The new plugin will import automatically all the existing ads, just deactivate the old version to avoid a double displaying."
+msgstr ""
+
+#: adsense-integrator.php:536
+#: adsense-integrator_NEW VERSION.php:536
+msgid "A final update of this version will be done, announcing the availability of the new one."
+msgstr ""
+
+#: adsense-integrator.php:537
+#: adsense-integrator_NEW VERSION.php:537
+msgid "Stay tuned for the next release of AI and check out !"
+msgstr ""
+
+#: adsense-integrator.php:544
+#: adsense-integrator_NEW VERSION.php:544
+msgid "CREATE A NEW AD"
+msgstr "Стварыць новую рэкламу"
+
+#: adsense-integrator.php:545
+#: adsense-integrator.php:707
+#: adsense-integrator_NEW VERSION.php:545
+#: VERSION.php:707
+msgid "Note for Google Adsense: "
+msgstr ""
+
+#: adsense-integrator.php:546
+#: adsense-integrator.php:708
+#: adsense-integrator_NEW VERSION.php:546
+#: VERSION.php:708
+msgid "set max 3 repetitions for each ad in a single page, to respect Google Adsense's policy."
+msgstr ""
+
+#: adsense-integrator.php:547
+#: adsense-integrator.php:709
+#: adsense-integrator_NEW VERSION.php:547
+#: VERSION.php:709
+msgid "A blank space will be displayed automatically by Google if you select more repetions than allowed."
+msgstr ""
+
+#: adsense-integrator.php:559
+#: adsense-integrator.php:715
+#: adsense-integrator_NEW VERSION.php:559
+#: VERSION.php:715
+msgid "Ads Name"
+msgstr "Імя рэкламы"
+
+#: adsense-integrator.php:561
+#: adsense-integrator.php:715
+#: adsense-integrator_NEW VERSION.php:561
+#: VERSION.php:715
+msgid "Repetitions"
+msgstr "Паўторы"
+
+#: adsense-integrator.php:562
+#: adsense-integrator.php:716
+#: adsense-integrator_NEW VERSION.php:562
+#: VERSION.php:716
+msgid "\"In Post\" Position"
+msgstr "\"In Post\" пазіцыя"
+
+#: adsense-integrator.php:563
+#: adsense-integrator.php:717
+#: adsense-integrator_NEW VERSION.php:563
+#: VERSION.php:717
+msgid "Sections"
+msgstr "Секцыі"
+
+#: adsense-integrator.php:564
+#: adsense-integrator.php:718
+#: adsense-integrator_NEW VERSION.php:564
+#: VERSION.php:718
+msgid "Margins"
+msgstr "Водступы"
+
+#: adsense-integrator.php:625
+#: adsense-integrator.php:788
+#: adsense-integrator_NEW VERSION.php:625
+#: VERSION.php:788
+msgid "Home"
+msgstr "Дахаты"
+
+#: adsense-integrator.php:626
+#: adsense-integrator.php:789
+#: adsense-integrator_NEW VERSION.php:626
+#: VERSION.php:789
+msgid "Post"
+msgstr "Пост"
+
+#: adsense-integrator.php:627
+#: adsense-integrator.php:790
+#: adsense-integrator_NEW VERSION.php:627
+#: VERSION.php:790
+msgid "Page"
+msgstr "Старонка"
+
+#: adsense-integrator.php:628
+#: adsense-integrator.php:791
+#: adsense-integrator_NEW VERSION.php:628
+#: VERSION.php:791
+msgid "To customize in more specific way go to category page, edit category section"
+msgstr ""
+
+#: adsense-integrator.php:628
+#: adsense-integrator.php:791
+#: adsense-integrator_NEW VERSION.php:628
+#: VERSION.php:791
+msgid "Category"
+msgstr "Катэгорыя"
+
+#: adsense-integrator.php:629
+#: adsense-integrator.php:792
+#: adsense-integrator_NEW VERSION.php:629
+#: VERSION.php:792
+msgid "Archive"
+msgstr "Архіў"
+
+#: adsense-integrator.php:630
+#: adsense-integrator.php:793
+#: adsense-integrator_NEW VERSION.php:630
+#: VERSION.php:793
+msgid "Tag"
+msgstr "Тэг"
+
+#: adsense-integrator.php:631
+#: adsense-integrator.php:794
+#: adsense-integrator_NEW VERSION.php:631
+#: VERSION.php:794
+msgid "Excerpt"
+msgstr "Вытрымка"
+
+#: adsense-integrator.php:635
+#: adsense-integrator.php:798
+#: adsense-integrator_NEW VERSION.php:635
+#: VERSION.php:798
+msgid "unit of measure"
+msgstr "Адзінка вымярэння"
+
+#: adsense-integrator.php:639
+#: adsense-integrator.php:802
+#: adsense-integrator_NEW VERSION.php:639
+#: VERSION.php:802
+msgid "top"
+msgstr "зверху"
+
+#: adsense-integrator.php:641
+#: adsense-integrator.php:805
+#: adsense-integrator_NEW VERSION.php:641
+#: VERSION.php:805
+msgid "right"
+msgstr "справа"
+
+#: adsense-integrator.php:645
+#: adsense-integrator.php:809
+#: adsense-integrator_NEW VERSION.php:645
+#: VERSION.php:809
+msgid "bottom"
+msgstr "знізу"
+
+#: adsense-integrator.php:647
+#: adsense-integrator.php:811
+#: adsense-integrator_NEW VERSION.php:647
+#: VERSION.php:811
+msgid "left"
+msgstr "злева"
+
+#: adsense-integrator.php:655
+#: adsense-integrator_NEW VERSION.php:655
+msgid "ADS Text"
+msgstr "Тэкст рэкламы"
+
+#: adsense-integrator.php:662
+#: adsense-integrator_NEW VERSION.php:662
+msgid "Save your new AD!"
+msgstr "Захаваць вашу новую рэкламу!"
+
+#: adsense-integrator.php:672
+#: adsense-integrator_NEW VERSION.php:672
+msgid "IP filter/ban"
+msgstr "IP фільтр/бан"
+
+#: adsense-integrator.php:680
+#: adsense-integrator_NEW VERSION.php:680
+msgid "Insert below the IP addresses to ban (don't show ads) or to redirect to the Alternative text/ad"
+msgstr "Устаўце ніжэй IP адрасы для забароны (не паказваць аб'явы), або перанакіраванне на альтэрнатыўны тэкст / Звесткі"
+
+#: adsense-integrator.php:683
+#: adsense-integrator_NEW VERSION.php:683
+msgid "IP list (one x row)"
+msgstr "IP спіс (па адным радку X)"
+
+#: adsense-integrator.php:684
+#: adsense-integrator_NEW VERSION.php:684
+msgid "Alternative text/ad"
+msgstr "Альтэрнатыўны тэкст / Звесткі"
+
+#: adsense-integrator.php:699
+#: adsense-integrator_NEW VERSION.php:699
+msgid "Ban these ips!"
+msgstr "Забараніць гэта IPS!"
+
+#: adsense-integrator.php:706
+#: adsense-integrator_NEW VERSION.php:706
+msgid "SAVED ADS"
+msgstr "Захаваныя аб'явы"
+
+#: adsense-integrator.php:817
+#: adsense-integrator_NEW VERSION.php:817
+msgid "   UPDATE   "
+msgstr ""
+
+#: adsense-integrator.php:825
+#: adsense-integrator_NEW VERSION.php:825
+msgid "delete"
+msgstr "выдаліць"
+
+#: adsense-integrator.php:829
+#: adsense-integrator_NEW VERSION.php:829
+msgid "Embed code for theme"
+msgstr "Код для ўбудавання тэмы"
+
+#: adsense-integrator.php:832
+#: adsense-integrator_NEW VERSION.php:832
+msgid "Embed code for posts/pages"
+msgstr "Уставіць код для паведамленняў / старонак"
+
+#: adsense-integrator.php:855
+#: adsense-integrator_NEW VERSION.php:855
+msgid "Credits"
+msgstr "Дадзеныя"
+
+#: adsense-integrator.php:860
+#: adsense-integrator_NEW VERSION.php:860
+msgid "This plugin was developed to aid you inserting AdSense ads into your blog."
+msgstr "Гэта ўбудова была распрацаваны, каб дапамагчы вам пры ўстаўцы рэкламы AdSense у вашым блогу."
+
+#: adsense-integrator.php:861
+#: adsense-integrator_NEW VERSION.php:861
+msgid "It represents a perfect solution to integrate Google Adsense into your WordPress blog. This plugin enables you to create different Adsense blocks and allows placing them within your template or individual posts."
+msgstr "Яна ўяўляе сабою ідэальнае рашэнне для інтэграцыі Google Adsense у ваш блог WordPress. Гэта ўбудова дазваляе вам ствараць розныя блокі Adsense і дазваляе месцаваць іх у свой шаблон, або асобныя пасады."
+
+#: adsense-integrator.php:864
+#: adsense-integrator_NEW VERSION.php:864
+msgid "New"
+msgstr "Новы "
+
+#: adsense-integrator.php:867
+#: adsense-integrator_NEW VERSION.php:867
+msgid "Theme Ads Insertion"
+msgstr "Тэма Месцаванне аб'яў"
+
+#: adsense-integrator.php:867
+#: adsense-integrator_NEW VERSION.php:867
+msgid "insert your ads into theme files with a php function to call your ad by his name"
+msgstr "уставіць аб'явы на тэму файлы з PHP функцыя звярнуць вашу аб'яву, яго імя"
+
+#: adsense-integrator.php:868
+#: adsense-integrator.php:920
+#: adsense-integrator_NEW VERSION.php:868
+#: VERSION.php:920
+msgid "Use"
+msgstr "Выкарыстоўваць"
+
+#: adsense-integrator.php:868
+#: adsense-integrator_NEW VERSION.php:868
+msgid "in the .php theme file you need, like sidebar.php"
+msgstr "у. .php файле вам трэба, як sidebar.php"
+
+#: adsense-integrator.php:869
+#: adsense-integrator.php:921
+#: adsense-integrator_NEW VERSION.php:869
+#: VERSION.php:921
+msgid "Note"
+msgstr "Нататка"
+
+#: adsense-integrator.php:869
+#: adsense-integrator.php:921
+#: adsense-integrator_NEW VERSION.php:869
+#: VERSION.php:921
+msgid "must NOT have spaces, you can use underscore (_) instead"
+msgstr "НЕ павінны быць прабелы, можна выкарыстоўваць знак падкрэслення (_) замест"
+
+#: adsense-integrator.php:875
+#: adsense-integrator_NEW VERSION.php:875
+#, fuzzy
+msgid "It could be used as well for other types of advertising campaigns, like"
+msgstr "Яна можа быць скарыстана таксама і для іншых тыпаў кампаній, як"
+
+#: adsense-integrator.php:882
+#: adsense-integrator_NEW VERSION.php:882
+#, fuzzy
+msgid "and others, included custom campaigns."
+msgstr "і іншыя, якія ўключаюцца карыстацкія кампаніі (не тэставалася)."
+
+#: adsense-integrator.php:885
+#: adsense-integrator_NEW VERSION.php:885
+msgid "Requirements and compatibility"
+msgstr "Патрабаванні і сумяшчальнасць"
+
+#: adsense-integrator.php:886
+#: adsense-integrator_NEW VERSION.php:886
+#, fuzzy
+msgid "Requires WordPress 1.5+ (tested from WP 2.0.0 till 3.x)"
+msgstr "Патрабуе WordPress 1.5 + (выпрабаванне з WP 2.0.0 да 2.8)"
+
+#: adsense-integrator.php:889
+#: adsense-integrator_NEW VERSION.php:889
+msgid "It was developed based on the last Google rules and AdSense updates, to use it please follow these steps."
+msgstr "Яна была распрацавана на аснове апошніх правілы Google AdSense і абнаўленняў, каб выкарыстоўваць яе выканаеце наступныя дзеянні."
+
+#: adsense-integrator.php:891
+#: adsense-integrator_NEW VERSION.php:891
+msgid "Installation"
+msgstr "Усталёўка"
+
+#: adsense-integrator.php:892
+#: adsense-integrator_NEW VERSION.php:892
+msgid "Like most all WordPress plugins, just copy the \"adsense-integrator\" folder into wp-content/plugins"
+msgstr "Як і большасць усіх убудоў WordPress, проста скапіюйце \"adsense-integrator\" у тэчку wp-content/plugins"
+
+#: adsense-integrator.php:893
+#: adsense-integrator_NEW VERSION.php:893
+msgid "Go to the plugins page of your WordPress blog and activate it"
+msgstr "Перайсці на старонку ўбудоў вашага блога WordPress і актывуйце яго"
+
+#: adsense-integrator.php:894
+#: adsense-integrator_NEW VERSION.php:894
+msgid "For additional info see the readme.txt file included with the download"
+msgstr "Для атрымання дадатковай інфармацыі гл. у файле Readme.txt уключаны пры загрузцы"
+
+#: adsense-integrator.php:897
+#: adsense-integrator_NEW VERSION.php:897
+msgid "Usage"
+msgstr "Выкарыстанне"
+
+#: adsense-integrator.php:898
+#: adsense-integrator_NEW VERSION.php:898
+msgid "Enter you Google Adsense account (or create one if you haven't)"
+msgstr "Увядзіце ваш акаўнт Google AdSense (ці стварыць, калі ў вас няма)"
+
+#: adsense-integrator.php:899
+#: adsense-integrator_NEW VERSION.php:899
+msgid "Create an announcement and copy the code"
+msgstr "Стварыце аб'явы і скапіюйце код"
+
+#: adsense-integrator.php:900
+#: adsense-integrator_NEW VERSION.php:900
+msgid "Enter the plugin settings (this page)"
+msgstr "Увядзіце налады ўбудовы (гэта старонка)"
+
+#: adsense-integrator.php:901
+#: adsense-integrator_NEW VERSION.php:901
+msgid "Create a new ad with the desired options"
+msgstr "Стварыць новую аб'яву з жаданымі параметрамі"
+
+#: adsense-integrator.php:903
+#: adsense-integrator_NEW VERSION.php:903
+msgid "You can create as many ads as you want, but remember that Google allows you to insert max 3 ads for each types (announcements and link groups). The plugin controls and stops ads if you exceed this number, but please pay attention if you inserted other ads in your template's code or in the widgets."
+msgstr "Вы можаце стварыць гэтулькі аб'яў, вы жадаеце, але памятаеце, што Google дазваляе ўставіць не больш за 3 аб'яў для кожнага тыпу (аб'явы і спасылкі груп). Убудова кантролю і прыпынках аб'явы, калі вы перавысілі гэты нумар, але звернеце ўвагу, калі вы ўставіць іншыя аб'явы ў шаблоне код ці виджеты."
+
+#: adsense-integrator.php:904
+#: adsense-integrator_NEW VERSION.php:904
+msgid "In the next release we will add the widget management to insert Google AdSense in every part of your blog, stay tuned!"
+msgstr "У наступным выпуску мы будзем дадаваць виджет кіраванні ўключыць Google AdSense у любой частцы вашага блога, сочыце за абнаўленнямі!"
+
+#: adsense-integrator.php:906
+#: adsense-integrator_NEW VERSION.php:906
+msgid ""
+"Once created you can easily and quickly manage your existing ads modifying the options.<br>\n"
+"\t\t\tTo pause your ad without deleting it, please set \"Repetitions\" to \"0\" and the ad will disappear."
+msgstr ""
+"Пасля стварэння вы можаце лёгка і хутка кіраваць існымі рэкламы змяніўшы параметры.<br>\n"
+"\t\t\tTo pause your ad without deleting it, please set \"Repetitions\" to \"0\" and the ad will disappear."
+
+#: adsense-integrator.php:910
+#: adsense-integrator_NEW VERSION.php:910
+msgid "Features"
+msgstr "Функцыі"
+
+#: adsense-integrator.php:911
+#: adsense-integrator_NEW VERSION.php:911
+msgid "Easy \"Copy & Paste\" your ads code for embedding AdSense ads in your WordPress posts"
+msgstr "Прсото сопируйте і ўставіце код аб'яў AdSense для ўбудавання рэкламы ў вашых паведамленнях WordPress"
+
+#: adsense-integrator.php:912
+#: adsense-integrator_NEW VERSION.php:912
+msgid "Set the number and types of ads for page"
+msgstr "Усталяваць колькасць і тыпы аб'яў на старонцы"
+
+#: adsense-integrator.php:913
+#: adsense-integrator_NEW VERSION.php:913
+msgid "Select the section of your blog where to insert each ad (homepage, posts, pages, categories, archives and tags)"
+msgstr "Абярыце частку вашага блога, дзе ўставіць кожную аб'яву (галоўная старонка, паведамленняў, старонак, катэгорый, архіваў і пазнакі)"
+
+#: adsense-integrator.php:914
+#: adsense-integrator_NEW VERSION.php:914
+msgid "All settings configured through WordPress Options interface (no knowledge of plugins or PHP required)"
+msgstr "Усе параметры наладжваюцца праз інтэрфейс WordPress Options (не вядома пра ўбудоў ці PHP патрабуецца)"
+
+#: adsense-integrator.php:915
+#: adsense-integrator_NEW VERSION.php:915
+msgid "Easily test different ad formats and positions modifying your existing ads"
+msgstr "Лёгка праверыць розныя фарматы аб'яў і змена пазіцый існых аб'яў"
+
+#: adsense-integrator.php:916
+#: adsense-integrator_NEW VERSION.php:916
+msgid "Ads are excluded from RSS feeds"
+msgstr "Аб'явы выключаны з RSS-канала"
+
+#: adsense-integrator.php:917
+#: adsense-integrator_NEW VERSION.php:917
+msgid "Ip filtering"
+msgstr "IP-фільтраванне"
+
+#: adsense-integrator.php:917
+#: adsense-integrator_NEW VERSION.php:917
+msgid "banning system with alternative text or ad"
+msgstr "забарона сістэме з альтэрнатыўным тэкстам ці аб'ява"
+
+#: adsense-integrator.php:918
+#: adsense-integrator_NEW VERSION.php:918
+msgid "CSS Margins"
+msgstr "CSS водступы"
+
+#: adsense-integrator.php:918
+#: adsense-integrator_NEW VERSION.php:918
+msgid "of the ads, configurable directly in the settings"
+msgstr "аб'яў, наладжваецца непасрэдна ў наладах"
+
+#: adsense-integrator.php:919
+#: adsense-integrator_NEW VERSION.php:919
+msgid "Manual Ads Insertion"
+msgstr "Кіраўніцтва па месцаванні аб'яў"
+
+#: adsense-integrator.php:919
+#: adsense-integrator_NEW VERSION.php:919
+msgid "into your post with tag system to call your ad by his name"
+msgstr "у паведамленне з тэгам сістэма звярнуць вашу аб'яву, яго імя"
+
+#: adsense-integrator.php:920
+#: adsense-integrator_NEW VERSION.php:920
+msgid "or simply"
+msgstr "ці проста"
+
+#: adsense-integrator.php:920
+#: adsense-integrator_NEW VERSION.php:920
+msgid "in the HTML view of the post"
+msgstr "Па меркаванні HTML паста"
+
+#: adsense-integrator.php:924
+#: adsense-integrator_NEW VERSION.php:924
+msgid "Notes"
+msgstr "Нататкі"
+
+#: adsense-integrator.php:925
+#: adsense-integrator_NEW VERSION.php:925
+msgid "AdSense Integrator was initially developed for our own use, after an exhaustive search for a similar instrument on anything properly."
+msgstr "AdSense інтэгратар быў першапачаткова распрацаваны для нашых уласных патрэб, пасля вычарпальнага пошуку аналагічных прылад на штосьці няправільна."
+
+#: adsense-integrator.php:927
+#: adsense-integrator_NEW VERSION.php:927
+msgid "Did you ever try to integrate Google AdSense into your WordPress blog? We did it since some time, pasting directly our adsense code in our templates and posts, manually. But it did not seem the best way to achieve our goals. We wanted some flexibility in deciding which places ads have to appear and the total control over the ad format that would be displayed in the blog posts."
+msgstr "Вы калі-небудзь паспрабаваць інтэграваць Google AdSense у вашым блогу WordPress? Мы зрабілі гэта з некаторага часу, налепванне непасрэднае нашых AdSense код у нашы шаблоны і пасад, уручную. Але гэта не ўяўляецца найлепшым спосабам дасягнення нашых мэт. Мы жадалі некаторую гнуткасць у вызначэнні таго, якія месцы рэклама павінна з'явіцца і поўны кантроль над фармат аб'яў, якія будуць адлюстроўвацца ў блогу."
+
+#: adsense-integrator.php:929
+#: adsense-integrator_NEW VERSION.php:929
+msgid "In light of the new AdSense rules and announcements creation control panel, we developed this plugin which is given you for free."
+msgstr "У святле новых правіл AdSense і аб'явы стварэння панэлі кіравання, мы распрацавалі гэту ўбудову, які падаецца вам бясплатна."
+
+#: adsense-integrator.php:931
+#: adsense-integrator_NEW VERSION.php:931
+msgid "Reward Author"
+msgstr "Аўтар Reward"
+
+#: adsense-integrator.php:932
+#: adsense-integrator_NEW VERSION.php:932
+msgid "Please support us leaving this option checked, you will contribute at the development of new versions of this and other free plugins we planned. Thank you for your help!"
+msgstr "Калі ласка, падтрымаеце нас пакінуць гэты параметр усталяваны, Вы ўносіце свой унёсак у распрацоўку новых версій гэтых і іншых бясплатных убудоў мы планавалі. Дзякуй за вашу дапамогу!"
+
+#: adsense-integrator.php:934
+#: adsense-integrator_NEW VERSION.php:934
+#, php-format
+msgid "Please leave this option cheched to support us, it replaces your ads with ours. Our ads will get the 4% of the total impressions"
+msgstr "Please leave this option cheched to support us, it replaces your ads with ours. Our ads will get the 4% of the total impressions"
+
+#: adsense-integrator.php:934
+#: adsense-integrator_NEW VERSION.php:934
+msgid "Reward Author feature on"
+msgstr "Reward Аўтар функцыю па"
+
+#: adsense-integrator.php:935
+#: adsense-integrator_NEW VERSION.php:935
+msgid "change"
+msgstr "змяніць"
+
+#: adsense-integrator.php:937
+#: adsense-integrator_NEW VERSION.php:937
+msgid "Thank you again and stay tuned for our future releases visiting us at"
+msgstr "Яшчэ раз дзякуй і чакайце нашых будучых рэлізаў наведваючы нас у"
+
+#: adsense-integrator.php:938
+#: adsense-integrator_NEW VERSION.php:938
+msgid "Adsense Integrator is proudly developed by Advertalis"
+msgstr ""
+
+#: adsense-integrator.php:941
+#: adsense-integrator_NEW VERSION.php:941
+msgid "Have a nice and profitable day!"
+msgstr "Прыемнага выгоднага дня!"
+
+#: adsense-integrator.php:2399
+#: adsense-integrator_NEW VERSION.php:2399
+msgid "Ads name have to be unique"
+msgstr ""
+
+#~ msgid "Type"
+#~ msgstr "Тып"
+
+#~ msgid "First Post Only"
+#~ msgstr "Толькі першы пост"
+
+#~ msgid "ad unit"
+#~ msgstr "рэкламны блок"
+
+#~ msgid "link unit"
+#~ msgstr "блок спасылак"
+
+#~ msgid "update"
+#~ msgstr "абнавіць"
+
+#~ msgid "with margins"
+#~ msgstr "з водступамі"
+
+#~ msgid "without margins"
+#~ msgstr "без водступаў"

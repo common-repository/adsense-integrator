@@ -1,0 +1,632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adsense Integrator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-03 11:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: advertalis <info@advertalis.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: adsense-integrator.php:247
+#: adsense-integrator_NEW VERSION.php:247
+msgid "AdSense Integrator"
+msgstr "AdSense Integrator"
+
+#: adsense-integrator.php:291
+#: adsense-integrator.php:403
+#: adsense-integrator_NEW VERSION.php:291
+#: VERSION.php:403
+msgid "AdSense Integrator Option"
+msgstr "AdSense Integrator Opzione"
+
+#: adsense-integrator.php:296
+#: adsense-integrator_NEW VERSION.php:296
+msgid "Check to disable ads on this post."
+msgstr "Seleziona per disabilitare gli ads in questo post"
+
+#: adsense-integrator.php:408
+#: adsense-integrator_NEW VERSION.php:408
+msgid "Check to disable ads on this page."
+msgstr "Seleziona per disabilitare gli ads in questa pagina"
+
+#: adsense-integrator.php:429
+#: adsense-integrator_NEW VERSION.php:429
+msgid "Setup"
+msgstr "Setup"
+
+#: adsense-integrator.php:482
+#: adsense-integrator.php:2415
+#: adsense-integrator_NEW VERSION.php:482
+#: VERSION.php:2415
+msgid "You have to specify ads name"
+msgstr ""
+
+#: adsense-integrator.php:488
+#: adsense-integrator.php:2384
+#: adsense-integrator_NEW VERSION.php:488
+#: VERSION.php:2384
+msgid "You cannot use white spaces in ads name"
+msgstr ""
+
+#: adsense-integrator.php:502
+#: adsense-integrator_NEW VERSION.php:502
+msgid "GLOBAL OPTIONS"
+msgstr "OPZIONI GLOBALI"
+
+#: adsense-integrator.php:510
+#: adsense-integrator_NEW VERSION.php:510
+msgid "Disable all ads for everybody"
+msgstr "Disabilita tutti gli ads per tutti"
+
+#: adsense-integrator.php:514
+#: adsense-integrator_NEW VERSION.php:514
+msgid "Disable all ads for administrators"
+msgstr "Disabilita tutti gli ads per gli amministratori"
+
+#: adsense-integrator.php:518
+#: adsense-integrator_NEW VERSION.php:518
+msgid "Enable all ads for administrators only"
+msgstr ""
+
+#: adsense-integrator.php:522
+#: adsense-integrator_NEW VERSION.php:522
+msgid "Save options!"
+msgstr "Salva le opzioni!"
+
+#: adsense-integrator.php:532
+#: adsense-integrator_NEW VERSION.php:532
+msgid "IMPORTANT ANNOUNCEMENT"
+msgstr ""
+
+#: adsense-integrator.php:533
+#: adsense-integrator_NEW VERSION.php:533
+#, php-format
+msgid "This is one of the <b>last updates</b> of the \"old\" Adsense Integrator, 100% compatible and tested with WordPress 3.x"
+msgstr ""
+
+#: adsense-integrator.php:534
+#: adsense-integrator_NEW VERSION.php:534
+msgid "In the next weeks we will publish a <b>new plugin</b> called <b>Adsense Integrator Widgetized</b>, fully integrated with the new WP widgets system."
+msgstr ""
+
+#: adsense-integrator.php:535
+#: adsense-integrator_NEW VERSION.php:535
+msgid "The new plugin will import automatically all the existing ads, just deactivate the old version to avoid a double displaying."
+msgstr ""
+
+#: adsense-integrator.php:536
+#: adsense-integrator_NEW VERSION.php:536
+msgid "A final update of this version will be done, announcing the availability of the new one."
+msgstr ""
+
+#: adsense-integrator.php:537
+#: adsense-integrator_NEW VERSION.php:537
+msgid "Stay tuned for the next release of AI and check out !"
+msgstr ""
+
+#: adsense-integrator.php:544
+#: adsense-integrator_NEW VERSION.php:544
+msgid "CREATE A NEW AD"
+msgstr "CREA UN NUOVO AD"
+
+#: adsense-integrator.php:545
+#: adsense-integrator.php:707
+#: adsense-integrator_NEW VERSION.php:545
+#: VERSION.php:707
+msgid "Note for Google Adsense: "
+msgstr ""
+
+#: adsense-integrator.php:546
+#: adsense-integrator.php:708
+#: adsense-integrator_NEW VERSION.php:546
+#: VERSION.php:708
+msgid "set max 3 repetitions for each ad in a single page, to respect Google Adsense's policy."
+msgstr ""
+
+#: adsense-integrator.php:547
+#: adsense-integrator.php:709
+#: adsense-integrator_NEW VERSION.php:547
+#: VERSION.php:709
+msgid "A blank space will be displayed automatically by Google if you select more repetions than allowed."
+msgstr ""
+
+#: adsense-integrator.php:559
+#: adsense-integrator.php:715
+#: adsense-integrator_NEW VERSION.php:559
+#: VERSION.php:715
+msgid "Ads Name"
+msgstr "Nome dell'AD"
+
+#: adsense-integrator.php:561
+#: adsense-integrator.php:715
+#: adsense-integrator_NEW VERSION.php:561
+#: VERSION.php:715
+msgid "Repetitions"
+msgstr "Ripetizioni"
+
+#: adsense-integrator.php:562
+#: adsense-integrator.php:716
+#: adsense-integrator_NEW VERSION.php:562
+#: VERSION.php:716
+msgid "\"In Post\" Position"
+msgstr "Posizione \"Nel Post\""
+
+#: adsense-integrator.php:563
+#: adsense-integrator.php:717
+#: adsense-integrator_NEW VERSION.php:563
+#: VERSION.php:717
+msgid "Sections"
+msgstr "Sezioni"
+
+#: adsense-integrator.php:564
+#: adsense-integrator.php:718
+#: adsense-integrator_NEW VERSION.php:564
+#: VERSION.php:718
+msgid "Margins"
+msgstr "Margini"
+
+#: adsense-integrator.php:625
+#: adsense-integrator.php:788
+#: adsense-integrator_NEW VERSION.php:625
+#: VERSION.php:788
+msgid "Home"
+msgstr "Home"
+
+#: adsense-integrator.php:626
+#: adsense-integrator.php:789
+#: adsense-integrator_NEW VERSION.php:626
+#: VERSION.php:789
+msgid "Post"
+msgstr "Post"
+
+#: adsense-integrator.php:627
+#: adsense-integrator.php:790
+#: adsense-integrator_NEW VERSION.php:627
+#: VERSION.php:790
+msgid "Page"
+msgstr "Pagina"
+
+#: adsense-integrator.php:628
+#: adsense-integrator.php:791
+#: adsense-integrator_NEW VERSION.php:628
+#: VERSION.php:791
+msgid "To customize in more specific way go to category page, edit category section"
+msgstr ""
+
+#: adsense-integrator.php:628
+#: adsense-integrator.php:791
+#: adsense-integrator_NEW VERSION.php:628
+#: VERSION.php:791
+msgid "Category"
+msgstr "Categoria"
+
+#: adsense-integrator.php:629
+#: adsense-integrator.php:792
+#: adsense-integrator_NEW VERSION.php:629
+#: VERSION.php:792
+msgid "Archive"
+msgstr "Archivio"
+
+#: adsense-integrator.php:630
+#: adsense-integrator.php:793
+#: adsense-integrator_NEW VERSION.php:630
+#: VERSION.php:793
+msgid "Tag"
+msgstr "Tag"
+
+#: adsense-integrator.php:631
+#: adsense-integrator.php:794
+#: adsense-integrator_NEW VERSION.php:631
+#: VERSION.php:794
+msgid "Excerpt"
+msgstr "Sommario"
+
+#: adsense-integrator.php:635
+#: adsense-integrator.php:798
+#: adsense-integrator_NEW VERSION.php:635
+#: VERSION.php:798
+msgid "unit of measure"
+msgstr "unità di misura"
+
+#: adsense-integrator.php:639
+#: adsense-integrator.php:802
+#: adsense-integrator_NEW VERSION.php:639
+#: VERSION.php:802
+msgid "top"
+msgstr "alto"
+
+#: adsense-integrator.php:641
+#: adsense-integrator.php:805
+#: adsense-integrator_NEW VERSION.php:641
+#: VERSION.php:805
+msgid "right"
+msgstr "destra"
+
+#: adsense-integrator.php:645
+#: adsense-integrator.php:809
+#: adsense-integrator_NEW VERSION.php:645
+#: VERSION.php:809
+msgid "bottom"
+msgstr "basso"
+
+#: adsense-integrator.php:647
+#: adsense-integrator.php:811
+#: adsense-integrator_NEW VERSION.php:647
+#: VERSION.php:811
+msgid "left"
+msgstr "sinistra"
+
+#: adsense-integrator.php:655
+#: adsense-integrator_NEW VERSION.php:655
+msgid "ADS Text"
+msgstr "Testo dell'AD"
+
+#: adsense-integrator.php:662
+#: adsense-integrator_NEW VERSION.php:662
+msgid "Save your new AD!"
+msgstr "Salva il tuo nuovo AD!"
+
+#: adsense-integrator.php:672
+#: adsense-integrator_NEW VERSION.php:672
+msgid "IP filter/ban"
+msgstr "Filtro IP/Ban"
+
+#: adsense-integrator.php:680
+#: adsense-integrator_NEW VERSION.php:680
+msgid "Insert below the IP addresses to ban (don't show ads) or to redirect to the Alternative text/ad"
+msgstr "Inserisci sotto gli indirizzi IP da bannare (per non mostrare gli ads) o a cui far vedere il testo/ad alternativo"
+
+#: adsense-integrator.php:683
+#: adsense-integrator_NEW VERSION.php:683
+msgid "IP list (one x row)"
+msgstr "Lista IP (uno per riga)"
+
+#: adsense-integrator.php:684
+#: adsense-integrator_NEW VERSION.php:684
+msgid "Alternative text/ad"
+msgstr "Testo/AD Alternativo"
+
+#: adsense-integrator.php:699
+#: adsense-integrator_NEW VERSION.php:699
+msgid "Ban these ips!"
+msgstr "Banna questi IP!"
+
+#: adsense-integrator.php:706
+#: adsense-integrator_NEW VERSION.php:706
+msgid "SAVED ADS"
+msgstr "ADS SALVATI"
+
+#: adsense-integrator.php:817
+#: adsense-integrator_NEW VERSION.php:817
+msgid "   UPDATE   "
+msgstr ""
+
+#: adsense-integrator.php:825
+#: adsense-integrator_NEW VERSION.php:825
+msgid "delete"
+msgstr "elimina"
+
+#: adsense-integrator.php:829
+#: adsense-integrator_NEW VERSION.php:829
+msgid "Embed code for theme"
+msgstr "Codice per insermento nel tema"
+
+#: adsense-integrator.php:832
+#: adsense-integrator_NEW VERSION.php:832
+msgid "Embed code for posts/pages"
+msgstr "Codice per insermento in post/pagine"
+
+#: adsense-integrator.php:855
+#: adsense-integrator_NEW VERSION.php:855
+msgid "Credits"
+msgstr "Credits"
+
+#: adsense-integrator.php:860
+#: adsense-integrator_NEW VERSION.php:860
+msgid "This plugin was developed to aid you inserting AdSense ads into your blog."
+msgstr "Questo plugin è stato sviluppato per aiutarti a inserire le pubblicità AdSense nel tuo blog."
+
+#: adsense-integrator.php:861
+#: adsense-integrator_NEW VERSION.php:861
+msgid "It represents a perfect solution to integrate Google Adsense into your WordPress blog. This plugin enables you to create different Adsense blocks and allows placing them within your template or individual posts."
+msgstr "Rappresenta una perfetta soluzione per intergrare Google Adsense nel tuo blog WordPress. Questo plugin ti permette di creare diversi blocchi di AdSense e di posizionarli nel tuo template o nei singoli post."
+
+#: adsense-integrator.php:864
+#: adsense-integrator_NEW VERSION.php:864
+msgid "New"
+msgstr "Nuovo"
+
+#: adsense-integrator.php:867
+#: adsense-integrator_NEW VERSION.php:867
+msgid "Theme Ads Insertion"
+msgstr "Inserimento ADS nel tema"
+
+#: adsense-integrator.php:867
+#: adsense-integrator_NEW VERSION.php:867
+msgid "insert your ads into theme files with a php function to call your ad by his name"
+msgstr "inserisci i tuoi ads nel file di tema con una funzione php per richiamare il tuo ad tramite il suo nome"
+
+#: adsense-integrator.php:868
+#: adsense-integrator.php:920
+#: adsense-integrator_NEW VERSION.php:868
+#: VERSION.php:920
+msgid "Use"
+msgstr "Uso"
+
+#: adsense-integrator.php:868
+#: adsense-integrator_NEW VERSION.php:868
+msgid "in the .php theme file you need, like sidebar.php"
+msgstr "nel file .php del tema che ti serve, come sidebar.php"
+
+#: adsense-integrator.php:869
+#: adsense-integrator.php:921
+#: adsense-integrator_NEW VERSION.php:869
+#: VERSION.php:921
+msgid "Note"
+msgstr "Nota"
+
+#: adsense-integrator.php:869
+#: adsense-integrator.php:921
+#: adsense-integrator_NEW VERSION.php:869
+#: VERSION.php:921
+msgid "must NOT have spaces, you can use underscore (_) instead"
+msgstr "NON deve avere spazi, puoi usare l'underscore (_) al loro posto"
+
+#: adsense-integrator.php:875
+#: adsense-integrator_NEW VERSION.php:875
+msgid "It could be used as well for other types of advertising campaigns, like"
+msgstr "Può essere anche usato per altri tipi di campagne, come "
+
+#: adsense-integrator.php:882
+#: adsense-integrator_NEW VERSION.php:882
+msgid "and others, included custom campaigns."
+msgstr "e altri, incluse campagne personalizzate (per clienti diretti). "
+
+#: adsense-integrator.php:885
+#: adsense-integrator_NEW VERSION.php:885
+msgid "Requirements and compatibility"
+msgstr "Requisiti e compatibilità"
+
+#: adsense-integrator.php:886
+#: adsense-integrator_NEW VERSION.php:886
+msgid "Requires WordPress 1.5+ (tested from WP 2.0.0 till 3.x)"
+msgstr "Richiede WordPress 1.5+ (testato da WP 2.0.0 fino a 3.x) "
+
+#: adsense-integrator.php:889
+#: adsense-integrator_NEW VERSION.php:889
+msgid "It was developed based on the last Google rules and AdSense updates, to use it please follow these steps."
+msgstr "E' stato sviluppato secondo le ultimi regolamenti di Google e aggiornamenti di AdSense, per usarlo segui questi passi."
+
+#: adsense-integrator.php:891
+#: adsense-integrator_NEW VERSION.php:891
+msgid "Installation"
+msgstr "Installazione"
+
+#: adsense-integrator.php:892
+#: adsense-integrator_NEW VERSION.php:892
+msgid "Like most all WordPress plugins, just copy the \"adsense-integrator\" folder into wp-content/plugins"
+msgstr "Come quasi tutti i plugins WordPress, copia \"adsense-integrator\" nella cartella wp-content/plugins"
+
+#: adsense-integrator.php:893
+#: adsense-integrator_NEW VERSION.php:893
+msgid "Go to the plugins page of your WordPress blog and activate it"
+msgstr "Va alla sezione plugins del tuo blog WordPress e attivalo"
+
+#: adsense-integrator.php:894
+#: adsense-integrator_NEW VERSION.php:894
+msgid "For additional info see the readme.txt file included with the download"
+msgstr "Per ulteriori informazioni vedi il file readme.txt incluso nel download"
+
+#: adsense-integrator.php:897
+#: adsense-integrator_NEW VERSION.php:897
+msgid "Usage"
+msgstr "Uso"
+
+#: adsense-integrator.php:898
+#: adsense-integrator_NEW VERSION.php:898
+msgid "Enter you Google Adsense account (or create one if you haven't)"
+msgstr "Entra nel tuo account Google AdSense (o creane uno se non ce l'hai)"
+
+#: adsense-integrator.php:899
+#: adsense-integrator_NEW VERSION.php:899
+msgid "Create an announcement and copy the code"
+msgstr "Crea un annuncio e copia il codice"
+
+#: adsense-integrator.php:900
+#: adsense-integrator_NEW VERSION.php:900
+msgid "Enter the plugin settings (this page)"
+msgstr "Entra nella configurazione del plugin (questa pagina)"
+
+#: adsense-integrator.php:901
+#: adsense-integrator_NEW VERSION.php:901
+msgid "Create a new ad with the desired options"
+msgstr "Crea un nuovo ad con le opzioni desiderate"
+
+#: adsense-integrator.php:903
+#: adsense-integrator_NEW VERSION.php:903
+msgid "You can create as many ads as you want, but remember that Google allows you to insert max 3 ads for each types (announcements and link groups). The plugin controls and stops ads if you exceed this number, but please pay attention if you inserted other ads in your template's code or in the widgets."
+msgstr "Puoi creare quanti ads vuoi, ma ricorda che Google permette di inserire nelle pagine al massimo 3 ads per ogni tipo (annunci illustrati o gruppi di links). Il plugin controlla e blocca gli ads che eccedono questo numero, ma attenzione se hai inserito altri ads nel codice del tuo template o nei widgets."
+
+#: adsense-integrator.php:904
+#: adsense-integrator_NEW VERSION.php:904
+msgid "In the next release we will add the widget management to insert Google AdSense in every part of your blog, stay tuned!"
+msgstr "Nella prossima release aggiungeremo la gestione dei widgets per inserire Google AdSense in ogni parte del tuo blog, a presto!"
+
+#: adsense-integrator.php:906
+#: adsense-integrator_NEW VERSION.php:906
+msgid ""
+"Once created you can easily and quickly manage your existing ads modifying the options.<br>\n"
+"\t\t\tTo pause your ad without deleting it, please set \"Repetitions\" to \"0\" and the ad will disappear."
+msgstr ""
+"Una volta creato puoi gestire facilmente e velocemente i tuoi ads modificandone le opzioni.<br>\n"
+"\t\t\tPer mettere in pausa i tuoi ads senza cancellarli, imposta le \"Ripetizioni\" a \"0\" e l'ad non verrà visualizzato."
+
+#: adsense-integrator.php:910
+#: adsense-integrator_NEW VERSION.php:910
+msgid "Features"
+msgstr "Funzionalità"
+
+#: adsense-integrator.php:911
+#: adsense-integrator_NEW VERSION.php:911
+msgid "Easy \"Copy & Paste\" your ads code for embedding AdSense ads in your WordPress posts"
+msgstr "Copia e Incolla facilmente il codice dei tuoi AdSense ads nei tuoi post in WordPress"
+
+#: adsense-integrator.php:912
+#: adsense-integrator_NEW VERSION.php:912
+msgid "Set the number and types of ads for page"
+msgstr "Imposta il numero e il tipo di ads per pagina"
+
+#: adsense-integrator.php:913
+#: adsense-integrator_NEW VERSION.php:913
+msgid "Select the section of your blog where to insert each ad (homepage, posts, pages, categories, archives and tags)"
+msgstr "Seleziona le sezioni del tuo blog dove inserire ogni ad (homepage, posts, pagine, categorie, archivi e tags)"
+
+#: adsense-integrator.php:914
+#: adsense-integrator_NEW VERSION.php:914
+msgid "All settings configured through WordPress Options interface (no knowledge of plugins or PHP required)"
+msgstr "Tutte le opzioni configurabili tramite un interfaccia di controllo WordPress (non richiesta conoscenza di PHP o altri linguaggi)"
+
+#: adsense-integrator.php:915
+#: adsense-integrator_NEW VERSION.php:915
+msgid "Easily test different ad formats and positions modifying your existing ads"
+msgstr "Sperimenta in modo facile differenti posizioni e formati modificando i tuoi ads esistenti"
+
+#: adsense-integrator.php:916
+#: adsense-integrator_NEW VERSION.php:916
+msgid "Ads are excluded from RSS feeds"
+msgstr "Gli Ads sono esclusi dai feeds RSS"
+
+#: adsense-integrator.php:917
+#: adsense-integrator_NEW VERSION.php:917
+msgid "Ip filtering"
+msgstr "Filtro IP"
+
+#: adsense-integrator.php:917
+#: adsense-integrator_NEW VERSION.php:917
+msgid "banning system with alternative text or ad"
+msgstr "sistema di ban (esclusione) con testo o ad alternativo"
+
+#: adsense-integrator.php:918
+#: adsense-integrator_NEW VERSION.php:918
+msgid "CSS Margins"
+msgstr "Margini CSS"
+
+#: adsense-integrator.php:918
+#: adsense-integrator_NEW VERSION.php:918
+msgid "of the ads, configurable directly in the settings"
+msgstr "degli ads, configurabile direttamente nelle opzioni"
+
+#: adsense-integrator.php:919
+#: adsense-integrator_NEW VERSION.php:919
+msgid "Manual Ads Insertion"
+msgstr "Inserimento manuale degli ADS"
+
+#: adsense-integrator.php:919
+#: adsense-integrator_NEW VERSION.php:919
+msgid "into your post with tag system to call your ad by his name"
+msgstr "nel tuo post con un sistema di tag per richiamare il tuo ad tramite il suo nome"
+
+#: adsense-integrator.php:920
+#: adsense-integrator_NEW VERSION.php:920
+msgid "or simply"
+msgstr "o semplicemente"
+
+#: adsense-integrator.php:920
+#: adsense-integrator_NEW VERSION.php:920
+msgid "in the HTML view of the post"
+msgstr "nella visualizzazione HTML del post"
+
+#: adsense-integrator.php:924
+#: adsense-integrator_NEW VERSION.php:924
+msgid "Notes"
+msgstr "Note"
+
+#: adsense-integrator.php:925
+#: adsense-integrator_NEW VERSION.php:925
+msgid "AdSense Integrator was initially developed for our own use, after an exhaustive search for a similar instrument on anything properly."
+msgstr "AdSense Integrator è stato inizialmente sviluppato per il nostro uso interno, dopo un'accurata ricerca di simili strumenti su questo argomento."
+
+#: adsense-integrator.php:927
+#: adsense-integrator_NEW VERSION.php:927
+msgid "Did you ever try to integrate Google AdSense into your WordPress blog? We did it since some time, pasting directly our adsense code in our templates and posts, manually. But it did not seem the best way to achieve our goals. We wanted some flexibility in deciding which places ads have to appear and the total control over the ad format that would be displayed in the blog posts."
+msgstr "Hai mai provato ad integrare Google AdSense nel tuo blog WordPress? Noi l'abbiamo fatto da un po', incollando direttamente il nostro codice adsense nei nostri templates e posts, manualmente. Ma non sembra la via migliore per raggiungere i nostro obiettivi. Volevamo maggiore flessibilità nel decidere in quali posti comparissero gli ads e il controllo totale sul modo in cui sarebbe apparso nei posts del blog."
+
+#: adsense-integrator.php:929
+#: adsense-integrator_NEW VERSION.php:929
+msgid "In light of the new AdSense rules and announcements creation control panel, we developed this plugin which is given you for free."
+msgstr "Alla luce delle nuove regole di AdSense e del pannello di controllo per la creazione di annunci, abbiamo sviluppato questo plugine che ti viene offerto gratis."
+
+#: adsense-integrator.php:931
+#: adsense-integrator_NEW VERSION.php:931
+msgid "Reward Author"
+msgstr "Ricompensa l'Autore"
+
+#: adsense-integrator.php:932
+#: adsense-integrator_NEW VERSION.php:932
+msgid "Please support us leaving this option checked, you will contribute at the development of new versions of this and other free plugins we planned. Thank you for your help!"
+msgstr "Ti preghiamo di supportarci lasciando questa opzione selezionata, contribuirai allo sviluppo delle nuove versioni e degli altri plugins che abbiamo pianificato. Grazie del tuo aiuto!"
+
+#: adsense-integrator.php:934
+#: adsense-integrator_NEW VERSION.php:934
+#, php-format
+msgid "Please leave this option cheched to support us, it replaces your ads with ours. Our ads will get the 4% of the total impressions"
+msgstr "Ti preghiamo di lasciare questa opzione selzionata per supportarci, rimpiazza i tuoi ads con i nostri. I nostri ads riceveranno il 4% delle visualizzazioni (non clicks!) totali"
+
+#: adsense-integrator.php:934
+#: adsense-integrator_NEW VERSION.php:934
+msgid "Reward Author feature on"
+msgstr "Opzione di Ricompensa l'Autore Attiva"
+
+#: adsense-integrator.php:935
+#: adsense-integrator_NEW VERSION.php:935
+msgid "change"
+msgstr "cambia"
+
+#: adsense-integrator.php:937
+#: adsense-integrator_NEW VERSION.php:937
+msgid "Thank you again and stay tuned for our future releases visiting us at"
+msgstr "Grazie e resta aggiornato sulle nostre prossime produzioni su"
+
+#: adsense-integrator.php:938
+#: adsense-integrator_NEW VERSION.php:938
+msgid "Adsense Integrator is proudly developed by Advertalis"
+msgstr ""
+
+#: adsense-integrator.php:941
+#: adsense-integrator_NEW VERSION.php:941
+msgid "Have a nice and profitable day!"
+msgstr "Ti auguriamo una buona e proficua giornata!"
+
+#: adsense-integrator.php:2399
+#: adsense-integrator_NEW VERSION.php:2399
+msgid "Ads name have to be unique"
+msgstr ""
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "First Post Only"
+#~ msgstr "Solo Primo Post"
+
+#~ msgid "ad unit"
+#~ msgstr "annuncio"
+
+#~ msgid "link unit"
+#~ msgstr "gruppo di links"
+
+#~ msgid "update"
+#~ msgstr "aggiorna"
+
+#~ msgid "with margins"
+#~ msgstr "con margini"
+
+#~ msgid "without margins"
+#~ msgstr "senza margini"
